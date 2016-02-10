@@ -1,0 +1,31 @@
+_repo: Ma-confession_46447
+contributor:
+  translator:
+    agent_name: Zoria
+    gutenberg_agent_id: '43794'
+    url: http://www.gutenberg.org/2009/agents/43794
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Толстой, Лев Николаевич
+    - Tolstoï, Léon
+    - Tolstoi, Leo
+    - Tolstoy, Lev N.
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: ''
+gutenberg_bookshelf: FR Philosophie, Religion et Morale
+gutenberg_issued: '2014-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46447'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Ma confession
+url: http://www.gutenberg.org/ebooks/46447
