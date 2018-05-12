@@ -1,9 +1,13 @@
 _repo: Ma-confession_46447
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Zoria
     gutenberg_agent_id: '43794'
     url: http://www.gutenberg.org/2009/agents/43794
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tolstoy, Leo, graf
@@ -18,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/136
     wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46447#Ma-confession
 gutenberg_bookshelf: FR Philosophie, Religion et Morale
 gutenberg_issued: '2014-07-29'
 gutenberg_type: Text
